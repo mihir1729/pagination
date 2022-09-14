@@ -1,3 +1,5 @@
-const paginate = () => {}
+const paginate = (followers) => {
+	const itemsPerPage = 10;
+};
 
-export default paginate
+export default paginate;
